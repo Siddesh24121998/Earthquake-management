@@ -13,7 +13,7 @@ SECRET_KEY = ')1@z#q(xxtsrcep$)$a3k*zzf)k*7e78l%e^t)=nb4s3)&oiw@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
